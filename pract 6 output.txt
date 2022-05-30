@@ -1,0 +1,23 @@
+ENTER NUMBER OF ELEMENTS IN THE BST : 4
+NUMBER = 2
+NUMBER = 4
+NUMBER = 6
+NUMBER = 7
+
+--- INORDER TRAVERSAL ---
+2  4  6  7
+
+--- POSTORDER TRAVERSAL ---
+7 6 4 2
+
+--- PREORDER TRAVERSAL ---
+2 4 6 7
+ELEMENT NOT FOUND
+
+0
+MINIMUM VALUE = 2
+7  6  4  2
+4
+--------------------------------
+Process exited after 6.416 seconds with return value 0
+Press any key to continue . . .

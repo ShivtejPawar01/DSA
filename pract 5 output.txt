@@ -1,0 +1,46 @@
+ how many sections you want to enter1
+
+ enter the name sec1
+
+******
+
+ enter your choice
+ 1.insert book
+ 2.insert chapter
+ 3.insert section
+ 4.insert subsection
+ 5.display book
+ 6.exit
+4
+
+ Enter the name of chapter on which  you want to enter the section Hashing
+
+ enter name of section in which you want to enter the sub section sec1
+
+ how many subsections you want to enter 1
+
+ enter the name subsec1
+
+******
+
+ enter your choice
+ 1.insert book
+ 2.insert chapter
+ 3.insert section
+ 4.insert subsection
+ 5.display book
+ 6.exit
+5
+
+ NAME OF BOOK:  DSA
+                NAME OF CHAPTER:  Hashing
+                                NAME OF SECTION:  sec1
+                                                NAME OF SUBSECTION:  subsec1
+
+ enter your choice
+ 1.insert book
+ 2.insert chapter
+ 3.insert section
+ 4.insert subsection
+ 5.display book
+ 6.exit

@@ -1,0 +1,11 @@
+Enter the number of Students : 2
+Enter the marks :  1: 10
+Enter the marks :  2: 9
+
+Sorted Data : ASCENDING : ->9->10
+Sorted Data : DESCENDING: ->10->9
+Maximum Marks : 10
+Minimum marks : 9
+--------------------------------
+Process exited after 9.335 seconds with return value 0
+Press any key to continue . . .

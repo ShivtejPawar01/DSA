@@ -1,0 +1,25 @@
+
+How many Word to insert?:
+2
+
+ENter Word: report
+
+Enter Meaning: info
+
+ENter Word: big
+
+Enter Meaning: large
+Ascending order
+ big : large
+ report : info
+
+Descending order:
+ report : info
+ big : large
+
+Enter word to search: big
+
+ big found in 25 comparisons
+--------------------------------
+Process exited after 57.25 seconds with return value 0
+Press any key to continue . . .

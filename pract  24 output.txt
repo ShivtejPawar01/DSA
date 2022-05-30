@@ -1,0 +1,61 @@
+
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 1
+
+Enter Employee ID and name :
+1
+ram
+Enter Year and Designation :
+2020
+HR
+Enter address :
+
+Record Inserted.
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 2
+
+   ID                NAMESALARY ROLE      CITY
+   24             saurabh 2022    SoftwareDevloper
+   24             saurabh 2002    S     atara
+    1                 ram 2020    H         R
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 3
+Enter Employee ID1
+
+    1                 ram 2020    H         R
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 4
+Enter Employee ID1
+
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 5
+
+File Closed.
+--------------------------------
+Process exited after 92.3 seconds with return value 0
+Press any key to continue . . .

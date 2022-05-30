@@ -1,0 +1,25 @@
+
+How many Word to insert?:
+2
+
+ENter Word: big
+
+Enter Meaning: large
+
+ENter Word: small
+
+Enter Meaning: tiny
+Ascending order
+ big : large
+ small : tiny
+
+Descending order:
+ small : tiny
+ big : large
+
+Enter word to search: big
+
+ big found in 1 comparisons
+--------------------------------
+Process exited after 25.44 seconds with return value 0
+Press any key to continue . . .

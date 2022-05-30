@@ -1,0 +1,125 @@
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :1
+
+        Enter Roll Number : 1
+
+        Enter the Name : chintu
+
+        Enter the Division:B
+
+        Enter the Address:Loni
+
+Do you want to enter more records?
+1.Yes
+2.No2
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :2
+
+        1               chintu          B               Loni
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :3
+
+Enter the roll number you want to find1
+
+Record found
+        Enter Roll Number : 1
+
+        Enter the Name : chotu
+
+        Enter the Division:B
+
+        Enter the Address:Loni
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :4
+
+Enter the name you want to find and edit chintu
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :5
+
+        Enter the roll number you want to modify1
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :6
+
+Enter the name you want to find and editchotu
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :7
+Please Enter the Roll No. of Student Whose Info You Want to Delete: 1
+The record with the roll no. 1 has been deleted
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :8
+
+        Thank you
+--------------------------------
+Process exited after 235.2 seconds with return value 0
+Press any key to continue . . .

@@ -1,0 +1,31 @@
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :1
+Enter Word: Smart
+Enter Meaning: Intellegent
+
+Smartinserted.
+Smart inserted into dictionary.
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :2
+Enter Word to Search: Smart
+ Word Is present.
+Smart = Intellegent
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :3
+Enter Word to Delete: Smart
+ Word is deleted.
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :
+

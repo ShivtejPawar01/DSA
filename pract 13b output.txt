@@ -1,0 +1,22 @@
+Enter number of vertices : 2
+Enter number of edges : 2
+
+EDGES :
+1
+2
+3
+4
+The adjacency matrix of the graph is :
+ 0 0
+ 0 0
+Enter initial vertex : 1
+The BFS of the Graph is
+1
+2
+Enter initial vertex : 2
+The DFS of the Graph is
+2
+1
+--------------------------------
+Process exited after 30.76 seconds with return value 0
+Press any key to continue . . .
